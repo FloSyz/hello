@@ -34,3 +34,6 @@ The final step to push the commit is git push
 
 git pull
 allows to pull last version of files on Github to update the local file
+
+git log
+to display history of see all commits
